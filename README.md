@@ -1,7 +1,4 @@
 # personal-data
-##### 1. Example graphs
-##### 2. How do I install this? (No programming background)
-
 ### 1. Example graphs
 (Note that each of these have addition context I added by hand, with the exception of Messenger, which has a function to add context lines.)
 #### Amazon Purchase History
