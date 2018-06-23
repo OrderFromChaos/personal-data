@@ -1,6 +1,6 @@
 # personal-data
 ### 1. Example graphs
-(Note that each of these have addition context I added by hand, with the exception of Messenger, which has a function to add context lines.)
+(Note that each of these have additional context I added by hand, with the exception of Messenger, which has a function to add context lines.)
 #### Amazon Purchase History
 ![Purchase history](https://i.imgur.com/ltRWSe6.png)
 #### Facebook Messenger Usage History
