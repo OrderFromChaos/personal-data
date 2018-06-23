@@ -1,16 +1,17 @@
 # personal-data
-Tools to pull your data from tech companies and analyze it
+##### 1. Example graphs
+##### 2. How do I install this? (No programming background)
 
-Current analysis code covers:
-+ Amazon Purchase History
-+ Facebook Messenger History
-+ Gmail History
-+ Spotify Playlists
+### 1. Example graphs
+(Note that each of these have addition context I added by hand, with the exception of Messenger, which has a function to add context lines.)
+#### Amazon Purchase History
+![Purchase history](https://i.imgur.com/ltRWSe6.png)
+#### Facebook Messenger Usage History
+![Overall FB Messenger Usage History](https://i.imgur.com/UDFpIk3.png)
+#### Gmail Usage History (snore001@ucr.edu)
+![snore001@ucr.edu sent mail usage history](https://i.imgur.com/CBmXtCC.png)
 
-Future/partially-written code covers:
-+ Google Calendar
-
-### How do I install this? (No programming background)
+### 2. How do I install this? (No programming background)
 You'll need Python 3 and a couple libraries. To get Python 3:
 1. Go to https://www.python.org/downloads/
 2. Click on "Download Python 3.6.5" (or any version with 3.x.x+)
