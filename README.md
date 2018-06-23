@@ -19,8 +19,8 @@ You'll need Python 3 and a couple libraries. To get Python 3:
 7. For each of the analysis codes, you'll need to enter relevant data for your account (so the data analyzer knows how to log in to your account to get the data or where to look for your data dump from eg Facebook). To do this, open up whichever .py file you want to run in Notepad and edit the "Hyperparameters" section at the top. It should look something like this:
 ![Image](https://i.imgur.com/BEhn1Uo.png)
 8. When you're done entering your information into the code, go back to powershell. There's a command called "cd" which allows you to change the "active directory" you're in. We want to use this to navigate to where our code will run. Here are the commands if you left the unzipped folder inside your Downloads folder:
-+ cd Downloads
-+ cd personal-data
++ `cd Downloads`
++ `cd personal-data`
 9. Now that you have the correct active directory, type the following command, with the name being correct for whichever piece of code you want to run:
-python3 messenger_portable.py
+`python3 messenger_portable.py`
 10. You're done!
